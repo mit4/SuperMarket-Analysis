@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The dataset used in this project contains information related to supermarket sales transactions located in USA. It includes a total of 21 columns, such as Order ID, Order Date, Ship Date, Ship Mode, Customer information, Product details, and Sales-related metrics.
+The [dataset](data/data123.xlsx) used in this project contains information related to supermarket sales transactions located in USA. It includes a total of 21 columns, such as Order ID, Order Date, Ship Date, Ship Mode, Customer information, Product details, and Sales-related metrics.
 
 ## Project Objectives
 
@@ -18,7 +18,7 @@ The primary objectives of this project are as follows:
 
 ## Data Columns
 
-Each column serves a specific purpose in the analysis. Further information about data is [here](data/data_info.txt)
+Each column in a dataset serves a specific purpose in the analysis. Further information about data is [here](data/data_info.txt)
 
 ## Visualization
 
@@ -28,5 +28,5 @@ In this section, provide visual representations of key findings using charts, gr
 
 ## Analysis and Insights
 
-All the plots can be found [here.](reports/figures/)
+All the plots can be found [here.](https://github.com/mit4/Supermarket-Analysis/tree/8b9602468483525c02553c935fd41462b498a2e2/reports/figures)
 This section outlines the main findings and insights obtained from the analysis. It may include trends in sales, customer segmentation, and the impact of discounts on profitability. Use descriptive statistics and data visualizations to support your conclusions.
