@@ -1,0 +1,24 @@
+Data columns (total 21 columns):
+ #   Column         Non-Null Count  Dtype         
+---  ------         --------------  -----         
+ 0   Row ID         6406 non-null   int64         
+ 1   Order ID       6406 non-null   object        
+ 2   Order Date     6406 non-null   datetime64[ns]
+ 3   Ship Date      6406 non-null   datetime64[ns]
+ 4   Ship Mode      6406 non-null   object        
+ 5   Customer ID    6406 non-null   object        
+ 6   Customer Name  6406 non-null   object        
+ 7   Segment        6406 non-null   object        
+ 8   Country        6406 non-null   object        
+ 9   City           6406 non-null   object        
+ 10  State          6406 non-null   object        
+ 11  Postal Code    6406 non-null   int64         
+ 12  Region         6406 non-null   object        
+ 13  Product ID     6406 non-null   object        
+ 14  Category       6406 non-null   object        
+ 15  Sub-Category   6406 non-null   object        
+ 16  Product Name   6406 non-null   object        
+ 17  Sales          6406 non-null   float64       
+ 18  Quantity       6406 non-null   int64         
+ 19  Discount       6406 non-null   float64       
+ 20  Profit         6406 non-null   float64       
