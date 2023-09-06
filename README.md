@@ -1,6 +1,6 @@
 # Supermarket Analysis Project
 
-![Overview](img\Overview_gif.gif)
+![Overview](img/Overview_gif.gif)
 
 ## Introduction
 
@@ -18,15 +18,15 @@ The primary objectives of this project are as follows:
 
 ## Data Columns
 
-Each column serves a specific purpose in the analysis. Further information about data is [here](data\data_info.txt)
+Each column serves a specific purpose in the analysis. Further information about data is [here](data/data_info.txt)
 
 ## Visualization
 
-![Profit Report](img\Profit_report_gif.gif)
+![Profit Report](img/Profit_report_gif.gif)
 
 In this section, provide visual representations of key findings using charts, graphs, and plots. Visualizations help in presenting data-driven insights in a more accessible and understandable manner.
 
 ## Analysis and Insights
 
-All the plots can be found [here.](/reports/figures/)
+All the plots can be found [here.](reports/figures/)
 This section outlines the main findings and insights obtained from the analysis. It may include trends in sales, customer segmentation, and the impact of discounts on profitability. Use descriptive statistics and data visualizations to support your conclusions.
